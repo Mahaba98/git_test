@@ -1,3 +1,3 @@
 # git_test
-My first Github repo
-Hello Odin
+This repo is for my lessons in codecademy.
+There are three languages : HTML, CSS, and JS.
